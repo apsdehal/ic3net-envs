@@ -26,7 +26,7 @@ import curses
 import gym
 import numpy as np
 from gym import spaces
-from gccnet_envs.traffic_helper import *
+from ic3net_envs.traffic_helper import *
 
 
 def nPr(n,r):
@@ -626,7 +626,3 @@ class TrafficJunctionEnv(gym.Env):
         if self.curr_start <= epoch < self.curr_end:
             self.exact_rate = self.exact_rate + step
             self.add_rate = step_size * (self.exact_rate // step_size)
-
-
-
-

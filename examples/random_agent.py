@@ -1,4 +1,4 @@
-from gccnet_envs.traffic_junction_env import TrafficJunctionEnv
+from ic3net_envs.traffic_junction_env import TrafficJunctionEnv
 import argparse
 import sys
 import signal

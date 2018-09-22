@@ -1,6 +1,6 @@
-# GCCNet Environments
+# IC3Net Environments
 
-This repository contains gym environments for tasks used in paper for GCCNet except starcraft. Namely, this repository contains:
+This repository contains gym environments for tasks used in paper for IC3Net except starcraft. Namely, this repository contains:
 
 - Traffic Junction Environment
 - Predator Prey Environments
