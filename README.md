@@ -19,6 +19,11 @@ Please cite IC3Net paper, "Learning when to Communicate at Scale in Multiagent C
 }
 ```
 
+## Related
+
+- IC3Net code is available at [IC3Net/IC3Net](https://github.com/IC3Net/IC3Net)
+- `gym-starcraft` is available at [apsdehal/gym-starcraft](https://github.com/apsdehal/gym-starcraft)
+
 ## Running
 
 Run `python setup.py develop` in the locally cloned repository.
