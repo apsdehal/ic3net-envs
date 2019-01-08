@@ -6,6 +6,19 @@ This repository contains gym environments for tasks used in paper for IC3Net exc
 - Predator Prey Environments
 - Sanity check number pairs and levers environment will be added later.
 
+## Cite
+
+Please cite IC3Net paper, "Learning when to Communicate at Scale in Multiagent Cooperative and Competitive Tasks" (ICLR 2019 accepted) if you use these environments in your work:
+
+```
+@article{singh2018learning,
+  title={Learning when to Communicate at Scale in Multiagent Cooperative and Competitive Tasks},
+  author={Singh, Amanpreet and Jain, Tushar and Sukhbaatar, Sainbayar},
+  journal={arXiv preprint arXiv:1812.09755},
+  year={2018}
+}
+```
+
 ## Running
 
 Run `python setup.py develop` in the locally cloned repository.
@@ -16,3 +29,8 @@ Note that, you can use `--display` flag to see the actual environment being rend
 ## License
 
 Code for this project is available under MIT license.
+
+## Authors
+
+- Amanpreet Singh ([@apsdehal](https://github.com/apsdehal))
+- Tushar Jain ([@tshrjn](https://github.com/tshrjn))
